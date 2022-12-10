@@ -1,0 +1,299 @@
+
+body{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    /* color: #fff;     */
+    line-height: 1.6;
+     /* background-color:  #252529;  */
+}
+#nav{
+     border: 1px solid black; 
+      height: 40px; 
+    
+    width: 100%; 
+       
+    display: flex;
+     position:fixed;    
+     
+     margin: 0px;
+     /* padding-top: 15px; */
+    background-color:  #333;
+    color: #eee;
+    text-align: center;
+    
+     /* padding-top: 6px;  */
+
+    
+    /* justify-content: space-between;     */
+}
+
+.nav11{
+    /* border: 1px solid black;  */
+     padding-top: 10px;  
+      height: 37px; 
+     width: 100px;
+    /* display: inline;   */
+     margin: 0px; 
+       
+   
+    width: 100px;
+    float: left;
+    text-align: center;
+   
+    
+}
+.nav11:hover{
+background-color:#444; 
+
+}
+#section2{
+      /* border: 6px solid rgb(217, 18, 18);   */
+    height: 650px;
+    /* width: 90%; */
+    margin: 0px;
+   background-image: url(/showcase.jpeg);
+   background-repeat: no-repeat;
+   background-position: center;
+
+   text-align: center;
+   padding: 80px;
+   padding-right: 100px;
+
+   background-size:cover;
+   color: #fff;  
+  
+
+}
+#heading1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+#heading2{
+    font-size: 2rem;
+    
+}
+#para1{
+    display: block;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 1.3rem;
+}
+#section3{
+    /* border: 6px solid rgb(217, 18, 18); */
+    height: 1200px;
+    text-align: center;
+    padding-top: 30px;
+    background-color:  #252529;
+    color: #fff; 
+    
+}
+#heading3{
+    font-size: 2rem; 
+    /* font-weight: bold; */
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+    color: #eee;
+}
+#heading4{
+    font-size: 2rem;
+    
+}
+#para2{
+    display: block;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 1.3rem;
+}
+#button1{
+    text-align: center;
+    height: 60px;
+    width: 200px;
+    font-size:20px;
+    font-family:"Font Awesome 5 Free" ;
+    
+    background-color: #b90415;
+    color:#f4f4f4;
+    border: none;
+    
+}
+#button1:hover{
+    background-color: #d3071b;
+}
+img{
+    height: 700px;
+}
+#section4{
+     /* border: 6px solid rgb(217, 18, 18);  */
+    height: 1290px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+#heading5{
+    font-size: 2rem;
+    
+}
+#para3{
+    display: block;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 1.3rem;
+}
+#button2{
+    text-align: center;
+    /* height: 60px;
+    width: 200px;  */
+    font-size:17px;
+    /* font-family:"Font Awesome 5 Free" ; */
+    
+    background-color: #103063;
+    color: #fff;
+    padding: 1rem; 
+    border: none;
+    display: block;
+    margin-left: 690px;
+    
+    
+}
+#button2:hover{
+    background-color:#143f85;
+}
+
+#img1{
+    height: 933px;
+    width: 1117px;
+}
+#section5{
+    /* border: 6px solid rgb(45, 37, 37);   */
+   height: 550px;
+   text-align: center;
+  background-image: url(/section-bg.jpeg);
+ background-repeat: no-repeat;
+  background-position: center; 
+  background-size:100% 100%; 
+  color: #fff;
+    
+   
+}
+#heading6{
+    font-size: 2rem;
+    font-weight: bold;
+    padding-top: 130px; 
+    
+}
+#subhead{
+
+
+    /* position: absolute;
+     top: 0px;  */
+}
+
+#h3{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+#para4{
+    display: block;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 1.3rem;  
+}
+
+#section6{
+    /* border: 1px solid rgb(217, 18, 18);   */
+   height: 400px;
+   /* padding: 10px; */
+   /* text-align: center;
+   padding-top: 30px;
+    */
+}
+
+#mom{
+/* border: 1px solid rgb(54, 217, 18);  */
+height:400px ;
+    display: grid;
+    grid-template-columns: 700px 700px  ;
+    column-gap: 0px;
+}
+.header{
+/* border: 3px solid rgb(36, 34, 34);     */
+    height: 400px;
+    width: 600px;
+}
+#child1{
+    margin-left: 50px;
+    background-image: url(/cards.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size:100% 100%; 
+}
+#h2{
+    font-weight: bold;
+    display: block;
+    font-size: 1.5em;
+    color: #333;
+}
+.para{
+   color: #333;
+}
+#h3{
+    color:#103063
+}
+a{
+    text-decoration: none;
+    color:#fff
+}
+
+#section7{
+    /* border: 1px solid rgb(217, 18, 18);    */
+    height: 250px; 
+   display: flex;
+   justify-content: center;
+   background-color:  #252529;  
+  
+}
+.div{
+    /* border: 1px solid rgb(20, 20, 20);   */
+   height: 180px;
+   width: 260px;
+   margin-top: 30px;
+   
+   /* margin-left: 400px; */
+        color: #fff;     
+       line-height: 1.6;
+       background-color:  #252529;  
+  
+}
+
+#hr1{
+    opacity: 0.5px;
+}
+.govaa1{
+    font-size: 1.2rem;
+      border: 1px solid #444;  
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    
+}
+.govaa2{
+    font-size: 1.2rem; 
+}
+
+li{
+    font-size: 14px;
+}
+#div10{
+ border: 1px solid rgb(51, 51, 51);
+height: 57.6px;
+text-align: center;
+background: rgb(51, 51, 51);
+color:#fff ;
+margin-top: 0px; 
+   
+   
+}

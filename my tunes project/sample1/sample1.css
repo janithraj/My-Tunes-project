@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(133, 128, 128); 
+
+
+} 
+#continor1{
+    /* border: 1px solid brown; */
+    height: 500px;
+    width: 500px;
+    line-height: 50px;
+    padding: 20px;
+    background-color: rgb(188, 183, 183);
+    margin-left: 400px;
+    /* margin-top: 100px; */
+    color:rgb(59, 20, 20);
+    font-size: x-large;
+    text-align: center;
+    margin-top: 100px;
+    margin-left:500px;
+  
+}
+h1{
+padding-left: 400px;
+padding-top: 100px;
+color: black;
+}
+.ss{
+font-size: large;
+}
+input:focus{
+
+  outline: none;
+  /* border-color: rgb(228, 161, 74); */
+}
+
+small{
+
+     visibility:hidden; 
+      /* display: ;  */
+
+}
+
+#footer{
+
+   border: 1px solid black;
+   height: 400px;
+   width: 600px;
+   color: green;
+   margin-top: 200px;
+  
+   position: absolute;
+   top:0px;
+   right:400px;
+ display: none;
+ border: none;
+ font-size: 25px;
+ text-align: center;
+ padding-top: 50px;
+ background-color: rgb(193, 186, 176,0.5);
+ 
+}
+button{
+  font-size: 20px;
+color: brown;
+border-color: blanchedalmond;
+}
+
+button:hover{
+ 
+  color: green;
+  font-size: 30px;
+}
+a{
+  text-decoration: none;
+  color: brown;
+}
+a:hover{
+
+  color: green;
+}
